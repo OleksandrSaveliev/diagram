@@ -5,7 +5,7 @@
 This repository contains a Stack–Heap memory diagram illustrating the runtime behavior of a Java program.  
 The diagram demonstrates how the JVM manages stack frames, local variables, object references, and heap-allocated objects during method execution.
 
-![Stack-Heap Diagram](stack-heap.svg)
+![Stack-Heap Diagram](stack–heap.svg)
 
 ---
 
